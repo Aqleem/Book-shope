@@ -1,0 +1,42 @@
+/* write your CSS here */
+.logo
+{
+    padding: 8px;
+    width: 62px;
+}
+.card
+{
+    margin: auto;
+    padding: 6px;
+    width: 85%;
+}
+.imgDiv
+{
+    padding-right: 24px; 
+}
+.card-body{
+    display: flex;
+}
+.
+.price
+{
+    display: flex;
+}
+.addingBooks
+{
+    display: flex;
+    float: right;
+}
+.totalAmount{
+    text-align: center;
+}
+#numberOfBooks{
+    width: 50px !important;
+    text-align: center;
+}
+
+@media screen and (max-width: 430px) {
+.card
+{
+    width: 100% !important;
+}
